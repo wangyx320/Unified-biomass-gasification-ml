@@ -12,15 +12,15 @@ This repository provides code, data, and trained models for a unified temperatur
 
 ## Requirements
 
-Python 3.x
+- Python 3.x
 
 ## Usage
 
-Run the corresponding Python script for each model.
+1. Run the corresponding Python script for each model.
 
-The dataset is stored in the data folder.
+2. The dataset is stored in the data folder.
 
-Check and adjust the dataset path in each script if necessary.
+3. Check and adjust the dataset path in each script if necessary.
 
 ## File Structure
 
