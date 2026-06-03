@@ -17,28 +17,17 @@ This repository provides code, data, and trained models for a unified temperatur
 ## Usage
 
 1. Run the corresponding Python script for each model.
-
 2. The dataset is stored in the data folder.
-
 3. Check and adjust the dataset path in each script if necessary.
 
 ## File Structure
 
-Resource/: Contains the experimental dataset.
-
-DT/: Contains the Decision Tree script and trained model.
-
-MLP/: Contains the MLP script, trained model, and scaler.
-
-RF/: Contains the Random Forest script and trained model.
-
-SVM/: Contains the SVM script, trained model, and scaler.
-
-XGBoost/: Contains the XGBoost script, trained models, and scaler.
-
-README.md: Project description and usage instructions.
-
-LICENSE: License information.
+- **Resource/:** Contains the experimental dataset.
+- **DT/:** Contains the Decision Tree script and trained model.
+- **MLP/:** Contains the MLP script, trained model, and scaler.
+- **RF/:** Contains the Random Forest script and trained model.
+- **SVM/:** Contains the SVM script, trained model, and scaler.
+- **XGBoost/:** Contains the XGBoost script, trained models, and scaler.
 
 ## Note
 
