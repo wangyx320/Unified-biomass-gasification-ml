@@ -13,13 +13,8 @@ This repository provides code, data, and trained models for a unified temperatur
 ## Requirements
 
 - Python 3.x
-
   Required Python packages are listed in `requirements.txt`.
-  Install the required packages using:
-```bash
-  pip install -r requirements.txt
-```
-
+ 
 ## Usage
 
 1. Download or clone this repository.
