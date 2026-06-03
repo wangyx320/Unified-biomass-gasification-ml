@@ -8,26 +8,33 @@ This repository provides code, data, and trained models for a unified temperatur
 - **Multiple Machine Learning Models:** Includes Decision Tree, Support Vector Machine, Multilayer Perceptron, Random Forest, and XGBoost models.
 - **Pre-trained Models:** Provides trained model files for reproducing prediction results.
 - **Prediction Outputs:** Predicts syngas composition and lower heating value, including H2, CO, CH4, CO2, and LHV.
-- **Reproducibility:** Includes dataset, source code, and trained models associated with the manuscript.
+- **Reproducibility:** Includes dataset, source code, trained models, and environment requirements associated with the manuscript.
 
 ## Requirements
 
 - Python 3.x
 
+Required Python packages are listed in `requirements.txt`.
+Install the required packages using:
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 
-1. Run the corresponding Python script for each model.
-2. The dataset is stored in the data folder.
-3. Check and adjust the dataset path in each script if necessary.
+1. Download or clone this repository.
+2. Install the required packages using `requirements.txt`.
+3. Run the corresponding Python script for each model.
+4. The dataset is stored in the `Resource/` folder.
+5. Check and adjust the dataset path in each script if necessary.
 
 ## File Structure
 
 - **Resource/:** Contains the experimental dataset.
-- **DT/:** Contains the Decision Tree script and trained model.
-- **MLP/:** Contains the MLP script, trained model, and scaler.
-- **RF/:** Contains the Random Forest script and trained model.
-- **SVM/:** Contains the SVM script, trained model, and scaler.
-- **XGBoost/:** Contains the XGBoost script, trained models, and scaler.
+- **Model/:** Contains the model scripts and trained model files.
+- **requirements.txt:** Lists the required Python packages.
+- **README.md:** Project description and usage instructions.
+- **LICENSE:** License information.
 
 ## Note
 
