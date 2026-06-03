@@ -4,15 +4,11 @@ This repository provides code, data, and trained models for a unified temperatur
 
 ## Features
 
-Data Processing: Load experimental gasification data from a CSV file for model training and prediction.
-
-Multiple Machine Learning Models: Includes Decision Tree, Support Vector Machine, Multilayer Perceptron, Random Forest, and XGBoost models.
-
-Pre-trained Models: Provides trained model files for reproducing prediction results.
-
-Prediction Outputs: Predicts syngas composition and lower heating value, including H2, CO, CH4, CO2, and LHV.
-
-Reproducibility: Includes dataset, source code, and trained models associated with the manuscript.
+- **Data Processing:** Load experimental gasification data from a CSV file for model training and prediction.
+- **Multiple Machine Learning Models:** Includes Decision Tree, Support Vector Machine, Multilayer Perceptron, Random Forest, and XGBoost models.
+- **Pre-trained Models:** Provides trained model files for reproducing prediction results.
+- **Prediction Outputs:** Predicts syngas composition and lower heating value, including H2, CO, CH4, CO2, and LHV.
+- **Reproducibility:** Includes dataset, source code, and trained models associated with the manuscript.
 
 ## Requirements
 
